@@ -1,0 +1,24 @@
+package quest;
+
+public class ConsOver {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Constructor overloading");
+	}
+	ConsOver()
+	{
+		System.out.println("No ARgument constuctor");
+	}
+	ConsOver(int a)
+	{
+		int b =9;
+		System.out.println( a+b);
+	}
+	ConsOver e1 =new ConsOver();
+	ConsOver e2 =new ConsOver(5);
+	
+	
+	
+
+}

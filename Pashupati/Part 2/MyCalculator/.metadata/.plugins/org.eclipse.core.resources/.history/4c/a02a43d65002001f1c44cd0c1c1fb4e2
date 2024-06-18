@@ -1,0 +1,27 @@
+package QUES11;
+
+
+
+	class Parent {
+	    void printData() {
+	        System.out.println("Method of parent class");
+	    }
+	}
+
+	class Child extends Parent {
+	    void printDatas() {
+	        System.out.println("Method of child class");
+	    }
+	}
+
+	public class UpcastingExample {
+	    public static void main(String[] args) {
+	        Parent obj1 =  new Child();
+	        //Parent obj2 = (Parent) new Child();
+
+	        obj1.printData(); // Output: "Method of child class"
+	        //obj2.printData(); // Output: "Method of child class"
+	    }
+	}
+
+

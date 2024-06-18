@@ -1,0 +1,23 @@
+package exception1;
+import java.util.Scanner;
+public class MinMaxArray {
+
+	public static void main(String[] args) 
+	{
+		Scanner myobj = new Scanner(System.in);
+		int n = myobj.nextInt();
+		
+    	int[] array = new int[n]; // Create an array in memory of length n
+
+        System.out.println("Enter the elements of the array:");
+        for (int i = 0; i < n; i++) {
+            array[i] = myobj.nextInt(); // Read array elements from the user
+        }
+
+        System.out.println("Array elements are:");
+        for (int i = 0; i < n; i++) {
+            System.out.println(array[i]); // Access array elements using a loop
+        }
+	}
+
+}

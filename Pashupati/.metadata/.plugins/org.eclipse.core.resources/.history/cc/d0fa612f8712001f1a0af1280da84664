@@ -1,0 +1,19 @@
+package PracticeP2;
+
+public class Demo {
+	public static void main(String[] args) {
+		int a=1;
+		while(a==1) {
+			
+			
+//			if() {
+//				break;
+//			}
+			System.out.println("while");
+			a++;
+		//	break;
+		}
+		System.out.println("hii");
+	}
+
+}

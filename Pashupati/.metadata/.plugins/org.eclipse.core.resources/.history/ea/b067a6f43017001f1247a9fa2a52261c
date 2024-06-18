@@ -1,0 +1,14 @@
+package exception1;
+import java.util.*;
+public class Array {
+
+	public static void main(String[] args) 
+	{
+		int arr[] = {23,45,65,43,56};
+		
+		MinMaxArray.sort(arr);
+	}
+
+	
+
+}

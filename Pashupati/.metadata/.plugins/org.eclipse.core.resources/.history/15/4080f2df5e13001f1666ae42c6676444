@@ -1,0 +1,16 @@
+package userDefException;
+import java.util.Scanner;
+public class  InvalidPassword extends Exception 
+{
+
+	public static void main(String[] args) 
+	{
+		String pass ="Pashu@123";
+	    
+	    Scanner myObj = new Scanner(System.in); 
+	    System.out.println("Enter your Password");// Create a Scanner object
+	    String userName = myObj.nextLine();
+	    System.out.println(userName);
+	}
+
+}

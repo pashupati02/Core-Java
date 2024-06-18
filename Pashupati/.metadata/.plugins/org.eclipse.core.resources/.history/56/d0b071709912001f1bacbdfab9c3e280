@@ -1,0 +1,20 @@
+package exception1;
+
+public class ExcHanArray {
+
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("By");
+	}
+	public static void m1()throws ArrayOutOfBound
+		try {
+			int arr[]= {1,2,3,4};
+			System.out.println(arr[5]);
+		} catch (Exception e) {
+			System.out.println("you can access of array at index 4  only");
+			
+		}
+	}
+
+}

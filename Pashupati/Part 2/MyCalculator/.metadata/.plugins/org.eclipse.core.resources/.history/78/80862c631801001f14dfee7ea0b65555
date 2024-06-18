@@ -1,0 +1,21 @@
+package Inheritance;
+
+public class CauliFlower extends Vegetable {
+
+	double price =40;
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("hy");
+		Vegetable m =new CauliFlower(); //upcasting
+		System.out.println(m.origin);
+		
+		//Downcasting
+		CauliFlower n =(CauliFlower) m;
+		System.out.println(n.origin);
+		System.out.println(n.price);
+		
+	}
+
+	
+}

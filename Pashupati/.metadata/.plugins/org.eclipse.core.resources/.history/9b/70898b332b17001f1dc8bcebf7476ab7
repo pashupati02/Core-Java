@@ -1,0 +1,13 @@
+package quest;
+import java.util.Scanner;
+public class ConsOver {
+
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter your no");
+		int no  = sc.nextInt();
+		System.out.println(no);
+	}
+
+}

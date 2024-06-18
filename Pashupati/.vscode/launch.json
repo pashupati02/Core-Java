@@ -1,0 +1,532 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Wques1",
+            "request": "launch",
+            "mainClass": "Wques1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues5",
+            "request": "launch",
+            "mainClass": "ForQues5",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues4",
+            "request": "launch",
+            "mainClass": "ForQues4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues15",
+            "request": "launch",
+            "mainClass": "ForQues15",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues13",
+            "request": "launch",
+            "mainClass": "ForQues13",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues8",
+            "request": "launch",
+            "mainClass": "ForQues8",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "ForQues1",
+            "request": "launch",
+            "mainClass": "ForQues1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Actiloop4",
+            "request": "launch",
+            "mainClass": "Actiloop4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Actiloop1",
+            "request": "launch",
+            "mainClass": "Actiloop1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo7",
+            "request": "launch",
+            "mainClass": "WhileDemo7",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop9",
+            "request": "launch",
+            "mainClass": "FLoop9",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop7",
+            "request": "launch",
+            "mainClass": "FLoop7",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop5",
+            "request": "launch",
+            "mainClass": "FLoop5",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop4",
+            "request": "launch",
+            "mainClass": "FLoop4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop3",
+            "request": "launch",
+            "mainClass": "FLoop3",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop2",
+            "request": "launch",
+            "mainClass": "FLoop2",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "FLoop1",
+            "request": "launch",
+            "mainClass": "FLoop1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo9",
+            "request": "launch",
+            "mainClass": "DWDemo9",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo8",
+            "request": "launch",
+            "mainClass": "DWDemo8",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo7",
+            "request": "launch",
+            "mainClass": "DWDemo7",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DEDemo6",
+            "request": "launch",
+            "mainClass": "DEDemo6",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo1",
+            "request": "launch",
+            "mainClass": "DoWhile.DWDemo1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo3",
+            "request": "launch",
+            "mainClass": "DoWhile.DWDemo3",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo2",
+            "request": "launch",
+            "mainClass": "DWDemo2",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DWDemo1",
+            "request": "launch",
+            "mainClass": "DWDemo1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo9",
+            "request": "launch",
+            "mainClass": "WhileDemo9",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo8",
+            "request": "launch",
+            "mainClass": "WhileDemo8",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo6",
+            "request": "launch",
+            "mainClass": "WhileDemo6",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bihar",
+            "request": "launch",
+            "mainClass": "Bihar",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "BoolIntoInt",
+            "request": "launch",
+            "mainClass": "BoolIntoInt",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "CharIntoNum",
+            "request": "launch",
+            "mainClass": "CharIntoNum",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Demos",
+            "request": "launch",
+            "mainClass": "Demos",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Dhiru",
+            "request": "launch",
+            "mainClass": "Dhiru",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "DoubleToInt",
+            "request": "launch",
+            "mainClass": "DoubleToInt",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Haryana",
+            "request": "launch",
+            "mainClass": "Haryana",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Jharkhand",
+            "request": "launch",
+            "mainClass": "Jharkhand",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Auto",
+            "request": "launch",
+            "mainClass": "NonPremitive.Auto",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Bike",
+            "request": "launch",
+            "mainClass": "NonPremitive.Bike",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "CAR",
+            "request": "launch",
+            "mainClass": "NonPremitive.CAR",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "NonPremitive.Driver",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Employee(1)",
+            "request": "launch",
+            "mainClass": "NonPremitive.Employee",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "OLA",
+            "request": "launch",
+            "mainClass": "NonPremitive.OLA",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "NonPremitive.Student",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "NonPremitive.User",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Boolean",
+            "request": "launch",
+            "mainClass": "Premitive.Boolean",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Byte",
+            "request": "launch",
+            "mainClass": "Premitive.Byte",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Char",
+            "request": "launch",
+            "mainClass": "Premitive.Char",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Double",
+            "request": "launch",
+            "mainClass": "Premitive.Double",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Float",
+            "request": "launch",
+            "mainClass": "Premitive.Float",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Int",
+            "request": "launch",
+            "mainClass": "Premitive.Int",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Long",
+            "request": "launch",
+            "mainClass": "Premitive.Long",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Short",
+            "request": "launch",
+            "mainClass": "Premitive.Short",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques1",
+            "request": "launch",
+            "mainClass": "Ques1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques2",
+            "request": "launch",
+            "mainClass": "Ques2",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques3",
+            "request": "launch",
+            "mainClass": "Ques3",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques4",
+            "request": "launch",
+            "mainClass": "Ques4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques5",
+            "request": "launch",
+            "mainClass": "Ques5",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Ques6",
+            "request": "launch",
+            "mainClass": "Ques6",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star1",
+            "request": "launch",
+            "mainClass": "Star1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star2",
+            "request": "launch",
+            "mainClass": "Star2",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star3",
+            "request": "launch",
+            "mainClass": "Star3",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star4",
+            "request": "launch",
+            "mainClass": "Star4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star5",
+            "request": "launch",
+            "mainClass": "Star5",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star7",
+            "request": "launch",
+            "mainClass": "Star7",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star8",
+            "request": "launch",
+            "mainClass": "Star8",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Star9",
+            "request": "launch",
+            "mainClass": "Star9",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "Uttrakhand",
+            "request": "launch",
+            "mainClass": "Uttrakhand",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo1",
+            "request": "launch",
+            "mainClass": "WhileDemo1",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo2",
+            "request": "launch",
+            "mainClass": "WhileDemo2",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo3",
+            "request": "launch",
+            "mainClass": "WhileDemo3",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo4",
+            "request": "launch",
+            "mainClass": "WhileDemo4",
+            "projectName": "Pashupati_bb06fb1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo5",
+            "request": "launch",
+            "mainClass": "WhileDemo5",
+            "projectName": "Pashupati_bb06fb1f"
+        }
+    ]
+}

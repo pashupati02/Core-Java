@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\JGU-JFFCJD-E2\Pashupati\Part 2\MyCalculator\.metadata\.plugins\org.eclipse.jdt.core
+1383580746.index
+1865797976.index
+1818320769.index
+2701284951.index
+4039584403.index
+384558603.index

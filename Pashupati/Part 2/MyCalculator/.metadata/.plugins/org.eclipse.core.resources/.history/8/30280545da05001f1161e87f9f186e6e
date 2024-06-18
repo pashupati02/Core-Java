@@ -1,0 +1,14 @@
+package QUES11;
+
+interface FDemo extends Intfruit{
+@Override
+public static void apple()
+{
+	System.out.println("This is aoole method");
+}
+@Override
+public static void lemon() {
+	System.out.println("thhis is lemon method");
+}
+
+}

@@ -1,0 +1,30 @@
+package QUES11;
+
+public class Upcsts 
+{
+    String m ="Pashupati";
+    void kumar()
+    {
+    	System.out.println("This is parent class" );    
+    }
+}
+
+  class UpcsC extends Upcsts
+  {
+	  int a =34;
+	  void pashupati()
+	  {
+		  System.out.println("This is child class");
+	  }
+  }
+  
+  class Dfinal
+  {
+
+	public static void main(String[] args) 
+	  {
+		Upcsts a = new UpcsC();
+		a.kumar();
+		
+	  }
+  }
